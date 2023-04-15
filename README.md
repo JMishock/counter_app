@@ -1,6 +1,7 @@
 # counter_app
 
 This is a simple counter application.
+This is from a lesson in React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmuller on Udemy.com.
 The top box counts upwards in incriments of one.
 The bottom box is a backwards counter that counts backwards (decrements) by one.
 Copy in folders to VS or text editor of your choice.
