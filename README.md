@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232878435-0a4a97b8-8666-48ab-842a-484dbb3b8272.png)
+
+
+
 # counter_app
 
 This is a simple counter application.
